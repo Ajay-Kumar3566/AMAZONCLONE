@@ -1,1 +1,1 @@
-AMAZON CLONE USING HTML AND CSS WEB DEVELOPING LANGUAGES
+This is a frontend clone of Amazon's homepage built using HTML and CSS. The project replicates Amazon's user interface, including the navbar, product sections, and footer, to provide a realistic e-commerce website experience.
